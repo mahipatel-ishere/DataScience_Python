@@ -1,5 +1,5 @@
 # Data Science Concepts :
-- This repository conytains some concepts of data science with python using Jupyter Notebook.
+- This repository contains some concepts of data science with python using Jupyter Notebook.
   
 # TOPICS COVERED :
  - DataFrame: read_csv(), tail(), head(), info(), shape()
